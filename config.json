@@ -20,5 +20,68 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "공학 1관": {
+      "style": "brick",
+      "wall": "#8e6e5f",
+      "glass": "#3c4a52",
+      "frame": "#555555"
+    },
+    "공학 2관": {
+      "style": "brick",
+      "wall": "#957664",
+      "glass": "#4f5a62",
+      "frame": "#3a3a3a"
+    },
+    "공학2관": {
+      "style": "brick",
+      "wall": "#957664",
+      "glass": "#4f5a62",
+      "frame": "#3a3a3a"
+    },
+    "공학 3관": {
+      "style": "brick",
+      "wall": "#8a6a5c",
+      "glass": "#3d4a55",
+      "frame": "#4d4d4d"
+    },
+    "다산정보관": {
+      "style": "glass",
+      "wall": "#a7aeb7",
+      "glass": "#3d5d83",
+      "frame": "#5e6c7e"
+    },
+    "담헌실학관": {
+      "style": "ribbon",
+      "wall": "#b9bec4",
+      "glass": "#1b2a45",
+      "frame": "#6b7380"
+    },
+    "산학협력관": {
+      "style": "stone",
+      "wall": "#e2e6e8",
+      "glass": "#2f444d",
+      "frame": "#8f979c"
+    },
+    "소울관": {
+      "style": "dorm",
+      "wall": "#a3abb4",
+      "glass": "#2e3338",
+      "frame": "#8a929b"
+    },
+    "인문경영관": {
+      "style": "ribbon",
+      "wall": "#7d6560",
+      "glass": "#5a6670",
+      "frame": "#e6e6e2"
+    },
+    "학생회관": {
+      "style": "glass",
+      "wall": "#9aa3ad",
+      "glass": "#3a4249",
+      "frame": "#c9ccce"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
